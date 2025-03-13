@@ -1,6 +1,10 @@
 
 # 📦 Sårbarhetssjekk for Debian Bookworm-pakker
 
+## 👨‍💻 Laget av
+
+Dette skriptet er utviklet av **Tarek Somak**.
+
 ## Introduksjon
 Dette programmet er utviklet for å finne sårbare pakker i **Debian Bookworm** ved hjelp av **Open Source Vulnerabilities (OSV)**-databasen.  
 Programmet analyserer pakkelisten for **amd64-arkitekturen** fra **main-repositoriet**, og sjekker hver pakke for kjente sårbarheter via OSV sitt API.
